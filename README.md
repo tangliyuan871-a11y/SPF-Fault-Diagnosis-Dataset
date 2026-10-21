@@ -2,7 +2,7 @@
 
 ## Overview
 
-This dataset is constructed using physics-based simulations for fault diagnosis of superplastic forming (SPF) equipment.
+This dataset is constructed using physics-based simulations for fault diagnosis of superplastic forming  equipment.
 
 ## Dataset Structure
 
